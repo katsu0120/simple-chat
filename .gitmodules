@@ -1,6 +1,6 @@
-[submodule "api"]
-  path = api
+[submodule "simple-chat-api"]
+  path = simple-chat-api
   url = https://github.com/katsu0120/simple-chat-api2
-[submodule "front"]
-  path = front
+[submodule "simple-chat-front"]
+  path = simple-chat-front
   url = https://github.com/katsu0120/simple-chat-front2
